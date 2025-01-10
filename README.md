@@ -107,3 +107,21 @@ User Input Interface: Allow for dynamic user input using a GUI or interactive co
 Multiple Files Support: Extend the program to support multiple files, where users can specify which file they wish to manipulate.
 Advanced Search and Replace: Implement more sophisticated search and replace functionality (e.g., using regular expressions).
 This project serves as a basic yet robust file handling utility, demonstrating how to perform common file operations in Java. It provides a foundation that can be extended for more complex file manipulation tasks.
+
+# OUTPUT
+
+---- Read Operation ----
+File does not exist.
+
+---- Write Operation ----
+Content written to file successfully. 
+
+---- Append Operation ----
+Content appended to file successfully.
+
+---- Modify Operation ----
+File modified successfully.
+
+---- Final Read Operation ----
+Reading file content:
+This is the new content written to the file.This is an appended line of text.
